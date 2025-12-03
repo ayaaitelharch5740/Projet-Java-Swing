@@ -19,9 +19,9 @@ Ce projet vise à gérer efficacement le suivi des notes des étudiants. Il perm
 
 ![Image de MCD](I1.PNG)
 
-````md
-## Structure du Projet Gestion-Notes scolaires 
 
+## Structure du Projet Gestion-Notes scolaires 
+````md
 Gestion-Notes/
 ├── Source Packages/
 │   └── ma/projet/
@@ -68,7 +68,7 @@ Gestion-Notes/
     ├── jcommon-1.0.23.jar
     ├── jfreechart-1.5.3.jar
     └── JDK 1.8 (Default) 
-
+````md
 
 ## Vidéo de démonstration (Demo video)
 https://github.com/user-attachments/assets/b394188c-e370-42d2-a611-7050ec8a0390
