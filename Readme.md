@@ -74,4 +74,8 @@ Gestion-Notes/
 https://github.com/user-attachments/assets/b394188c-e370-42d2-a611-7050ec8a0390
 
 
-
+## Auteur
+Nom : Benhirt Fatima Ezzahra
+Cours : Introduction à Python
+Date : Decembre 2025
+Encadré par : Pr. Mohamed LACHGAR
