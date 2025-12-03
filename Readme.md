@@ -68,7 +68,7 @@ Gestion-Notes/
     ├── jcommon-1.0.23.jar
     ├── jfreechart-1.5.3.jar
     └── JDK 1.8 (Default) 
-````md
+```md
 
 ## Vidéo de démonstration (Demo video)
 https://github.com/user-attachments/assets/b394188c-e370-42d2-a611-7050ec8a0390
