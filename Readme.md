@@ -19,9 +19,8 @@ Ce projet vise à gérer efficacement le suivi des notes des étudiants. Il perm
 
 ![Image de MCD](I1.PNG)
 
-
 ## Structure du Projet Gestion-Notes scolaires 
-````md
+```md
 Gestion-Notes/
 ├── Source Packages/
 │   └── ma/projet/
@@ -67,15 +66,13 @@ Gestion-Notes/
     ├── javax.mail.jar
     ├── jcommon-1.0.23.jar
     ├── jfreechart-1.5.3.jar
-    └── JDK 1.8 (Default) 
-```md
-
+    └── JDK 1.8 (Default)
+```
 ## Vidéo de démonstration (Demo video)
 https://github.com/user-attachments/assets/b394188c-e370-42d2-a611-7050ec8a0390
 
-
 ## Auteur
-Nom : Benhirt Fatima Ezzahra
-Cours : Introduction à Python
-Date : Decembre 2025
-Encadré par : Pr. Mohamed LACHGAR
+**Nom :** Aya AIT EL HARCH  
+**Cours :** Introduction à Python  
+**Date :** Décembre 2025  
+**Encadré par :** Pr. Mohamed LACHGAR
