@@ -71,9 +71,7 @@ Gestion-Notes/
 
 
 ## Vidéo de démonstration (Demo video)
-
-
-https://github.com/user-attachments/assets/9584ad35-bea6-49a3-bba3-60e25254045f
+https://github.com/user-attachments/assets/b394188c-e370-42d2-a611-7050ec8a0390
 
 
 
