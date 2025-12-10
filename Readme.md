@@ -19,6 +19,7 @@ Ce projet vise à gérer efficacement le suivi des notes des étudiants. Il perm
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d6dfe32-e478-4195-85b6-ab0719c54777" alt="MCD" width="619" height="289">
 </p>
+
 ## Structure du Projet Gestion-Notes scolaires 
 ```md
 Gestion-Notes/
